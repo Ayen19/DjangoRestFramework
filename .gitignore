@@ -1,2 +1,5 @@
 db.sqlite3
 venv/
+core/__pycache__
+blog_api/migrations
+blog_api/__pycache__
