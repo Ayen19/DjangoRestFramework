@@ -3,3 +3,8 @@ venv/
 core/__pycache__
 blog_api/migrations
 blog_api/__pycache__
+blog/__pycache__/
+htmlcov/
+.coverage
+blog/__pycache__/tests.cpython-38.pyc
+blog_api/__pycache__/
